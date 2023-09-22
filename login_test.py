@@ -51,8 +51,8 @@ def naver_login():
     screen.implicitly_wait(5)
     time.sleep(3)
 
-    user_id = 'ap_datorama'
-    user_pw = 'Password123!@#'
+    user_id = ''
+    user_pw = ''
 
     # id pw 입력
     # log_id = screen.find_element(By.ID, "id")
